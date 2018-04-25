@@ -1,0 +1,10 @@
+c:\users\ярослав\documents\visual studio 2017\Projects\API_Date_Free_Space\API_Date_Free_Space\bin\Debug\API_Date_Free_Space.exe.config
+c:\users\ярослав\documents\visual studio 2017\Projects\API_Date_Free_Space\API_Date_Free_Space\bin\Debug\API_Date_Free_Space.exe
+c:\users\ярослав\documents\visual studio 2017\Projects\API_Date_Free_Space\API_Date_Free_Space\bin\Debug\API_Date_Free_Space.pdb
+c:\users\ярослав\documents\visual studio 2017\Projects\API_Date_Free_Space\API_Date_Free_Space\obj\Debug\API_Date_Free_Space.csprojResolveAssemblyReference.cache
+c:\users\ярослав\documents\visual studio 2017\Projects\API_Date_Free_Space\API_Date_Free_Space\obj\Debug\API_Date_Free_Space.Properties.Resources.resources
+c:\users\ярослав\documents\visual studio 2017\Projects\API_Date_Free_Space\API_Date_Free_Space\obj\Debug\API_Date_Free_Space.csproj.GenerateResource.Cache
+c:\users\ярослав\documents\visual studio 2017\Projects\API_Date_Free_Space\API_Date_Free_Space\obj\Debug\API_Date_Free_Space.exe
+c:\users\ярослав\documents\visual studio 2017\Projects\API_Date_Free_Space\API_Date_Free_Space\obj\Debug\API_Date_Free_Space.pdb
+C:\Users\Ярослав\documents\visual studio 2017\Projects\API_Date_Free_Space\API_Date_Free_Space\obj\Debug\API.Form1.resources
+C:\Users\Ярослав\documents\visual studio 2017\Projects\API_Date_Free_Space\API_Date_Free_Space\obj\Debug\API_Date_Free_Space.csproj.CoreCompileInputs.cache
